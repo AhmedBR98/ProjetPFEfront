@@ -1,0 +1,8 @@
+.homeContainer{
+    display: flex;
+    width: 100%;
+    background-color: white;
+}
+.popov {
+   top:1500px;
+}
